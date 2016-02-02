@@ -1,6 +1,6 @@
 # ttytw
 
-ttytw (teletpyewriter twitch) is a command line interface for opening available twitch streams through livestreamer.
+ttytw (teletypewriter twitch) is a command line interface for opening available twitch streams through livestreamer.
 
 setup:
 -ttytw.py and config.ini in the same folder
